@@ -28,8 +28,8 @@ Para rodar os testes, rode o seguinte comando em seu terminal de preferencia:
   robot -d ./logs tests/slogan.robot
 ```
 
-
 ## Documentação
 
-[Robot Browser]([Browser](https://marketsquare.github.io/robotframework-browser/Browser.html#library-documentation-top))
+[Robot Browser](https://marketsquare.github.io/robotframework-browser/Browser.html#library-documentation-top)
+
 
