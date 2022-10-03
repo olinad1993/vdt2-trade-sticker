@@ -30,6 +30,6 @@ Para rodar os testes, rode o seguinte comando em seu terminal de preferencia:
 
 ## Documentação
 
-[Robot Browser](https://marketsquare.github.io/robotframework-browser/Browser.html#library-documentation-top)
+[Robot Browser](https://github.com/MarketSquare/robotframework-browser)
 
 
